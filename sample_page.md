@@ -4,8 +4,6 @@
 
 The final dissertation reached a word count of 12600 and achieved a first class grade of 77%.
 
-### [Full Paper](pdf/ParaicBradley_Dissertation_180165038.pdf)
-
 ### Abstract
 When implementing ray traced lighting effects it is important to understand how the scenes in which these effects are deployed will affect their visual impact and performance metrics. This paper explores implementation of ray traced reflections, shadows, global illumination and ambient occlusion shaders in order to determine ideal optimisations and combinations of effects in different archetypical graphical scenes. The strengths and weaknesses of each effect is evaluated based on their performance measured against other ray traced effects and rasterised equivalents, as well as their subjective visual improvements. The results of this project determine an ideal combination of ray traced graphical effects in different scene types, including outdoor urban environments, outdoor rural environments and indoor environments.
 
