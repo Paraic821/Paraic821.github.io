@@ -21,7 +21,7 @@
 ---
 
 ## [2021 Game Technologies Coursework](/CSC8503)
-![Goat Game](/images/goat.png)
+![Game Technologies Coursework](/images/CSC3232.png)
 
 ---
 
