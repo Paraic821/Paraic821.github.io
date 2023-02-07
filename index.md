@@ -1,32 +1,14 @@
 ## Portfolio
 
----
-
-### Category Name 1 
-
-[Project 1 Title](/dissertation)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/CSC8503)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Ray Tracing Dissertation](/dissertation)
+![Sun Temple ray traced ambient occlusiom](/images/ao_sunTemple.jpg)
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[2022 Advanced Game Technologies Coursework](/CSC8503)
+![Goat Game](/images/goat.png)
 
 ---
-
 
 
 
