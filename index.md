@@ -15,6 +15,11 @@
 
 ---
 
+## [2023 Team Project](/CSC8503)
+![Team Project](/images/splatoon.jpg)
+
+---
+
 ## [2021 Game Technologies Coursework](/CSC8503)
 ![Goat Game](/images/goat.png)
 
