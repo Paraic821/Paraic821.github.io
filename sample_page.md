@@ -10,18 +10,36 @@ When implementing ray traced lighting effects it is important to understand how 
 
 ### 1. [Ray traced reflections shader](https://www.youtube.com/watch?v=lVp3G2o0_ug)
 
-A naive ray traced reflections shader in an urban environment. The linked video shows the shader in motion and demonstrates how changing the roughness cutoff will impact the final image.
+![Bistro Exterior ray traced reflections](/images/reflections_bistroExterior.jpg)
+
+![Sun Temple ray traced reflections](/images/reflections_SunTemple.jpg)
+
+A naive ray traced reflections shader in an urban environment. 
+
+The linked video shows the shader in motion and demonstrates how changing the roughness cutoff will impact the final image.
 
 ### 2. [Ray traced shadows shader](https://www.youtube.com/watch?v=fC4gOE64zE0)
 
-This video demonstrates two possible approaches to ray traced shadows. The first approach considers every light source for every pixel on screen, and the second approach considers only a single light source per frame for every pixel. The second approach improves performance, but results in a noisy output image, so requires a robust denoising solution or for data to be accumulated over multiple frames.
+![Arcade ray traced shadows](/images/shadows_Arcade.jpg)
+
+Simple ray traced shadows.
+
+The linked video demonstrates two possible approaches to ray traced shadows. The first approach considers every light source for every pixel on screen, and the second approach considers only a single light source per frame for every pixel. The second approach improves performance, but results in a noisy output image, so requires a robust denoising solution or for data to be accumulated over multiple frames.
 
 ### 3. [Ray traced global illumination](https://www.youtube.com/watch?v=Iu9ajc-PVJY)
 
-This video shows a simple ray traced global illumination shader which calculates only a single bounce of indirect light. This produces a noisy output, so requires data to be accumulated over multiple frames. Although being recorded at a high bitrate, sections of the video showcasing the raw noisy output suffer from extreme compression when uploaded to YouTube and this is unavoidable.
+![Bistro Exterior ray traced global illumination](/images/gi_BistroExterior.jpg)
 
-This shader can also be combined with the previous ray traced shadows shader to provide a more complete lighting model and a more attractive final image.
+![Emereald Square ray traced global illumination](/images/gi_EmeraldSquare.jpg)
+
+Simple ray traced global illumination, with a single bounce of indirect light. Images show ray traced global illumination combined with ray traced shadows to provide a more complete and attractive final image.
+
+The linked video shows the shader in motion. This shader produces a noisy output, so requires data to be accumulated over multiple frames. Although originally being recorded at a high bitrate, sections of the video showcasing the raw noisy output suffer unfortunately from extreme compression when uploaded to YouTube.
 
 ### 4. [Ray traced ambient occlusion](https://www.youtube.com/watch?v=lqITkLesNZU)
 
-This video showcases ray traced ambient occlusion and demonstrates both the noisy, raw output and the clean final image when data is accumulated over multiple frames. As with the global illumination shader, sections of the video showing the noisy output are unfortunately greatly harmed by YouTube compression.
+![Sun Temple ray traced ambient occlusiom](/images/ao_sunTemple.jpg)
+
+![Sun Temple ray traced ambient occlusiom](/images/ao_bistroInterior.jpg)
+
+The linked video showcases ray traced ambient occlusion and demonstrates both the noisy, raw output and the clean final image when data is accumulated over multiple frames. As with the global illumination shader, sections of the video showing the noisy output are unfortunately greatly harmed by YouTube compression.
