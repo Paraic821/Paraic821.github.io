@@ -1,11 +1,11 @@
 ## Portfolio
 
-[Ray Tracing Dissertation](/dissertation)
+## [Ray Tracing Dissertation](/dissertation)
 ![Sun Temple ray traced ambient occlusiom](/images/ao_sunTemple.jpg)
 
 ---
 
-[2022 Advanced Game Technologies Coursework](/CSC8503)
+## [2022 Advanced Game Technologies Coursework](/CSC8503)
 ![Goat Game](/images/goat.png)
 
 ---
