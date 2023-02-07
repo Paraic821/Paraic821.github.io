@@ -4,11 +4,6 @@
 
 The final dissertation reached a word count of 12600 and achieved a first class grade of 77%.
 
-### [Full Paper](/pdf/ParaicBradley_Dissertation_180165038.pdf)
-
-### Abstract
-When implementing ray traced lighting effects it is important to understand how the scenes in which these effects are deployed will affect their visual impact and performance metrics. This paper explores implementation of ray traced reflections, shadows, global illumination and ambient occlusion shaders in order to determine ideal optimisations and combinations of effects in different archetypical graphical scenes. The strengths and weaknesses of each effect is evaluated based on their performance measured against other ray traced effects and rasterised equivalents, as well as their subjective visual improvements. The results of this project determine an ideal combination of ray traced graphical effects in different scene types, including outdoor urban environments, outdoor rural environments and indoor environments.
-
 ### 1. [Ray traced reflections shader](https://www.youtube.com/watch?v=lVp3G2o0_ug)
 
 ![Bistro Exterior ray traced reflections](/images/reflections_bistroExterior.jpg)
@@ -44,3 +39,5 @@ The linked video shows the shader in motion. This shader produces a noisy output
 ![Sun Temple ray traced ambient occlusiom](/images/ao_bistroInterior.jpg)
 
 The linked video showcases ray traced ambient occlusion and demonstrates both the noisy, raw output and the clean final image when data is accumulated over multiple frames. As with the global illumination shader, sections of the video showing the noisy output are unfortunately greatly harmed by YouTube compression.
+
+### [Full Paper](/pdf/ParaicBradley_Dissertation_180165038.pdf)
