@@ -21,7 +21,7 @@
 ---
 
 ## [2021 Graphics for Games Coursework](/CSC8503)
-![Goat Game](/images/goat.png)
+![Graphics Coursework](/images/CSC3231.png)
 
 
 
