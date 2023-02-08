@@ -20,7 +20,7 @@
 
 ---
 
-## [2021 Game Technologies Coursework](/CS3232)
+## [2021 Game Technologies Coursework](/CSC3232)
 ![Game Technologies Coursework](/images/CSC3232.png)
 
 ---
