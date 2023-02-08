@@ -1,15 +1,7 @@
-## 2022 Advanced Game Technologies Coursework: Goat Game
+## 2023 Team Project *Coming Soon*
 
-This project start life as a piece of coursework exploring video game physics and AI technology at a postgraduate level. I have since expanded upon this project, refining the implementation of A* and string pulling for nav mesh pathfinding and the enemy AI.
+I am currently working on a major team project with 7 other masters students. We are creating a multiplayer shooter inspired by Splatoon.
 
-I achieved a grade of 94% for this piece of coursework.
+![Splatoon](/images/splatoon.jpg)
 
-![Goat Game](/images/goat.png)
-
-**About this project:** This is a simple physics sandbox in which the goal is to destroy a set number of objects and collect points within a time limit. The goat has the ability to headbutt, which will launch nearby objects and destroy destructible objects.
-
-This module's coursework is built upon a simple C++ physics codebase provided by the lecturer. Based off information provided in taught materials, I was to implement systems for the application of forces and impulses, collision detection, collision resolution, constraints, spacial acceleration structures, game states, and AI. 
-
-Additionally I independently implemented some more advanced features, such as custom capsule collision detection, and A* pathfinding and a string pulling algorithm for navigation meshes.
-
-### [Repository Link](https://github.com/Paraic821/CSC8503)
+Check back soon to see our progress!
