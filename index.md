@@ -10,22 +10,22 @@
 
 ---
 
-## [2022 Advanced Graphics for Games Coursework](/CSC8503)
+## [2022 Advanced Graphics for Games Coursework](/CSC8502)
 ![Goat Game](/images/goat.png)
 
 ---
 
-## [2023 Team Project](/CSC8503)
+## [2023 Team Project](/TeamProject)
 ![Team Project](/images/splatoon.jpg)
 
 ---
 
-## [2021 Game Technologies Coursework](/CSC8503)
+## [2021 Game Technologies Coursework](/CS3232)
 ![Game Technologies Coursework](/images/CSC3232.png)
 
 ---
 
-## [2021 Graphics for Games Coursework](/CSC8503)
+## [2021 Graphics for Games Coursework](/CSC3231)
 ![Graphics Coursework](/images/CSC3231.png)
 
 
