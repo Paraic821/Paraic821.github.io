@@ -9,7 +9,7 @@
 ![Goat Game](/images/goat.png)
 
 ### [2022 Advanced Graphics for Games Coursework](/CSC8502)
-![Graphics Coursework](/images/goat.png)
+![Graphics Coursework](/images/CSC8502.png)
 
 ### [2023 Team Project](/TeamProject)
 ![Team Project](/images/splatoon.jpg)
