@@ -15,8 +15,8 @@
 
 ## Other Projects
 
-### [2023 Goal Oriented Action Planning Project](/dissertation)
-![Sun Temple ray traced ambient occlusiom](/images/ao_sunTemple.jpg)
+### [2023 Goal Oriented Action Planning Project](/goapDissertation)
+![GOAP Scenario 3](/images/goapScenario3.png)
 
 ### [2023 Team Project](/TeamProject)
 ![Team Project](/images/splatoon.jpg)
