@@ -1,6 +1,6 @@
 ## Parcel Corps - Releasing September 3rd
 
-Parcel Corps is an arcade parkour bicycle racing game inspired by Jet Set Radio and Crazy Taxi in which players take on the role of a bicycle courier to take on the evil Rich Villainé. Releasing September 3rd on Steam, PlayStation 5 and Xbox Series consoles.
+Parcel Corps is an arcade parkour bicycle racing game inspired by Jet Set Radio and Crazy Taxi in which players take on the role of a bicycle courier to take on the evil Rich Villainé. Releasing soon in 2024 on Steam, PlayStation 5 and Xbox Series consoles.
 
 ![Parcel Corps Screenshot 1](/images/parcelcorpsScreenshot1.jpg)
 
@@ -8,7 +8,7 @@ Parcel Corps is an arcade parkour bicycle racing game inspired by Jet Set Radio 
 
 I worked as a generalist programmer and got to touch on many different areas of the game. I was responisble for maintaing the stability of the project, dealing with bugs as they were reported and also implemented several game modes including a time trial mission, micro deliveries mission and a tricks rush mission. I finished many systems that were partially complete, including the Strift gamemode, leprechaun minigame, player customisation, keyboard controls and much more.  
 
-Check out some trailers for the game [here](https://www.youtube.com/watch?v=ZcqOarX9slI) and [here](https://www.youtube.com/watch?v=BfX95JNYeLk).
+Check out some trailers for the game [here](https://www.youtube.com/watch?v=ZcqOarX9slI) and [here](https://www.youtube.com/watch?v=BfX95JNYeLk) or check out the demo on Steam.
 
 ![Parcel Corps Screenshot 2](/images/parcelcorpsScreenshot2.jpg)
 
